@@ -7,7 +7,7 @@
 
 **Unit Code:** WEB14204
 
-[**GitHub Link**](https://github.com/deanlc/App)
+[**GitHub Link**](https://github.com/deanlc/WEB14204-Dean-Chalk)
 
 ##Blogs
 - [Medium Publication](https://medium.com/nmmaps)
